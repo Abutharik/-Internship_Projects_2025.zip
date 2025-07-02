@@ -43,8 +43,8 @@ Each task folder contains:
 ## 💬 Contact
 
 > **Abutharik**  
-> 📧 Email: *your-email@example.com*  
-> 🌐 Portfolio/GitHub: [github.com/yourusername](https://github.com/yourusername)
+> 📧 Email: *your-abuaju55@gmail.com*  
+> 🌐 Portfolio/GitHub: [github.com/yourusername](https://github.com/Abutharik/-Internship_Projects_2025.zip/blob/main/README.md))
 
 ---
 
