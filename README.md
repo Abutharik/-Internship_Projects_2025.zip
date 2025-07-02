@@ -25,4 +25,29 @@ Each project includes relevant files such as Python notebooks, dashboards, datas
 
 ## 📦 Folder Structure
 
+Each task folder contains:
+- `.ipynb` notebook or scripts
+- Cleaned dataset `.csv`
+- Dashboard `.twbx` or `.pbix`
+- Final report `.pdf`
+- `README.md` for task summary
+
+---
+
+## 📄 Final Report
+
+- [Final_Project_Report.pdf](./Final_Project_Report.pdf) contains an overview of all tasks with tools and outcomes.
+
+---
+
+## 💬 Contact
+
+> **Abutharik**  
+> 📧 Email: *your-email@example.com*  
+> 🌐 Portfolio/GitHub: [github.com/yourusername](https://github.com/yourusername)
+
+---
+
+⭐ Star this repo if you like the work!
+
 
